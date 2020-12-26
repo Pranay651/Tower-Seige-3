@@ -12,4 +12,6 @@ Press the space key for another chance.
 ## Why is the background changing?
 The background changes according to the **IST** timezone. It is a bright, sunny background from 6:00 AM to 7:00 PM, and a beautiful, starry night during other times.
 
-# Thank you for playing this game, I hope you enjoy it! 😊
+# Thank you for playing this game, I hope you enjoy it! 
+#link(If not visible click on code)
+https://pranay651.github.io/Tower-Seige-3/.
